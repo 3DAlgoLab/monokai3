@@ -6,14 +6,14 @@ A VS Code color theme based on the Monokai Pro palette, with a subtle brightness
 
 | Role | Color | Hex |
 |------|-------|-----|
-| Background | █ | `#252425` |
-| Red | █ | `#ff6e92` |
-| Orange | █ | `#fca073` |
-| Yellow | █ | `#ffdb72` |
-| Green | █ | `#b0df81` |
-| Cyan | █ | `#83dfea` |
-| Purple | █ | `#b2a5f3` |
-| White | █ | `#fcfcfa` |
+| Background | <span style="color:#252425">█</span> | `#252425` |
+| Red | <span style="color:#ff6e92">█</span> | `#ff6e92` |
+| Orange | <span style="color:#fca073">█</span> | `#fca073` |
+| Yellow | <span style="color:#ffdb72">█</span> | `#ffdb72` |
+| Green | <span style="color:#b0df81">█</span> | `#b0df81` |
+| Cyan | <span style="color:#83dfea">█</span> | `#83dfea` |
+| Purple | <span style="color:#b2a5f3">█</span> | `#b2a5f3` |
+| White | <span style="color:#fcfcfa">█</span> | `#fcfcfa` |
 
 ## Install
 
