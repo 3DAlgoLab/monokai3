@@ -1,7 +1,7 @@
 {
   "name": "monokai3",
   "displayName": "Monokai3",
-  "description": "A slightly brighter take on Monokai Pro for VS Code",
+  "repository": "https://github.com/3DAlgoLab/monokai3",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.95.0"
