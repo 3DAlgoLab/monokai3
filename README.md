@@ -6,14 +6,14 @@ A VS Code color theme based on the Monokai Pro palette, with a subtle brightness
 
 | Role | Color | Hex |
 |------|-------|-----|
-| Background | <span style="color:#252425">█</span> | `#252425` |
-| Red | <span style="color:#ff6e92">█</span> | `#ff6e92` |
-| Orange | <span style="color:#fca073">█</span> | `#fca073` |
-| Yellow | <span style="color:#ffdb72">█</span> | `#ffdb72` |
-| Green | <span style="color:#b0df81">█</span> | `#b0df81` |
-| Cyan | <span style="color:#83dfea">█</span> | `#83dfea` |
-| Purple | <span style="color:#b2a5f3">█</span> | `#b2a5f3` |
-| White | <span style="color:#fcfcfa">█</span> | `#fcfcfa` |
+| Background | <span style="background-color:#252425;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#252425` |
+| Red | <span style="background-color:#ff6e92;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#ff6e92` |
+| Orange | <span style="background-color:#fca073;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#fca073` |
+| Yellow | <span style="background-color:#ffdb72;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#ffdb72` |
+| Green | <span style="background-color:#b0df81;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#b0df81` |
+| Cyan | <span style="background-color:#83dfea;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#83dfea` |
+| Purple | <span style="background-color:#b2a5f3;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#b2a5f3` |
+| White | <span style="background-color:#fcfcfa;display:inline-block;width:1.2em;height:1.2em;border:1px solid #ccc;border-radius:2px;"> </span> | `#fcfcfa` |
 
 ## Install
 
