@@ -1,0 +1,34 @@
+{
+  "name": "monokai3",
+  "displayName": "Monokai3",
+  "description": "A slightly brighter take on Monokai Pro for VS Code",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#222124",
+    "theme": "Dark"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "monokai",
+    "monokai-pro",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai3",
+        "uiTheme": "vs-dark",
+        "path": "./monokai3-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "author": "monokai3"
+}
